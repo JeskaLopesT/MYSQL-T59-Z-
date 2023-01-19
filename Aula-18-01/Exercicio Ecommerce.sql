@@ -2,8 +2,7 @@
 CREATE DATABASE ecommerce;
 
 -- comando que seleciona o banco de dados que vamos trabalhar
-USE ecommerce;
-
+USE ecommerce ;
 
 -- comando de criação de tabelas
 CREATE TABLE produtos(
